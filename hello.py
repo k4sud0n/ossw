@@ -1,1 +1,1 @@
-print("Hello Github!")
+print("202100807컴퓨터공학부김시현")
